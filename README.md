@@ -10,5 +10,6 @@ Hey! btw am an :blue_heart: Microsoft Student Partner :blue_heart: for Sri Lanka
 - :speech_balloon: I'm also on twitter https://twitter.com/hirantha_peiris 
 - :speech_balloon: also in linked in https://www.linkedin.com/in/hirantha-peiris-404/
 - 😄 Pronouns: he :satisfied:
-- ⚡ Fun fact: I'm not only a dev i did more interesting work on film and VFX and still an hobby .
+- ⚡ Fun fact: I'm not only a dev i did more interesting work on film and VFX and still an hobby.
 
+![](https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif)
