@@ -17,6 +17,6 @@ Hey! btw am an :blue_heart: Microsoft Student Partner :blue_heart: for Sri Lanka
 
 - 😄 Pronouns: he :satisfied:
 
-- ⚡ Fun fact: I'm not only a dev i did more interesting work on film and VFX and still an hobby.
+- ⚡ Fun fact: I'm not only a dev i did more interesting work on Cinematography and VFX and still a hobby.
 
 ![](https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif)
