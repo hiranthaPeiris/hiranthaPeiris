@@ -1,17 +1,14 @@
 ### Hi there 👋
 
-<!--
-**hiranthaPeiris/hiranthaPeiris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:snowflake: Thanks for checking out my profile. I am an friendly fellow who is interested in computer science and stuff... stuff means specially in web and cloud technologies. 
+Hey! btw am an :blue_heart: Microsoft Student Partner :blue_heart: for Sri Lanka :blush: 
 
-Thanks for checking out my profile. I am an friendly fellow who is interested in computer science and stuff... stuff means specially in web and cloud technologies. 
-Hey! btw am an Microsoft Student Partner for Sri Lanka :blush: 
+🔭 Familier technologies & languages are React, NodeJs, Flutter, python, Java
+🌱 I'm currently an undergraduate at University of Ruhuna, Sri Lanka :eyes:
+💬 Ask me about React, Azure, NodeJs
+📫 How to reach me: hiranthapeiris404@gmail.com
+:speech_balloon: I'm also on twitter https://twitter.com/hirantha_peiris 
+:speech_balloon: also in linked in https://www.linkedin.com/in/hirantha-peiris-404/
+- 😄 Pronouns: he :satisfied:
+- ⚡ Fun fact: I'm not only a dev i did more interesting work on film and VFX and still an hobby .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
