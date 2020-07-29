@@ -3,7 +3,8 @@
 <!--
 **hiranthaPeiris/hiranthaPeiris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Thanks for checking out my profile. I am an friendly fellow who is interested in computer science and stuff... stuff means specially in web and cloud technologies. 
+Hey! btw am an Microsoft Student Partner for Sri Lanka :blush: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
